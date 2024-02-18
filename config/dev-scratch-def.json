@@ -1,0 +1,14 @@
+{
+    "orgName": "Dev Org",
+    "edition": "Developer",
+    "features": ["AuthorApex"],
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "networksEnabled": true
+        },
+        "communitySettings": {
+            "enableNetworksEnabled": true
+        }
+    }
+}
